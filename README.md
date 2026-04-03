@@ -5,8 +5,11 @@
 SmartRecruitAI is an intelligent next-generation recruitment platform that revolutionizes the CV-job matching process by combining **Deep Learning**, **Natural Language Processing (NLP)**, and **Retrieval-Augmented Generation (RAG)**.
 
 It understands candidate profiles semantically, provides explainable matching, answers natural-language questions, and generates tailored HR content.
-![SmartRecruitAI Demo & Presentation](https://canva.link/q33ltiwn6oytned)
-*Click the image above to open the full demo and presentation*
+## 🎥 Demo & Presentation
+
+**[👆 Open Full Demo & Presentation in Canva](https://canva.link/q33ltiwn6oytned)**
+
+*Shows the matching interface, explainable results, conversational assistant, and more.*
 
 ## ✨ Key Features
 
