@@ -6,7 +6,7 @@ SmartRecruitAI is an intelligent next-generation recruitment platform that revol
 
 It understands candidate profiles semantically, provides explainable matching, answers natural-language questions, and generates tailored HR content.
 
-![SmartRecruitAI Demo](https://canva.link/q33ltiwn6oytned)
+![SmartRecruitAI Demo]([https://canva.link/q33ltiwn6oytned](https://canva.link/q33ltiwn6oytned))
 *Demo & Presentation – Click to view the full Canva presentation showing the matching interface, explanations, and conversational assistant*
 
 ## ✨ Key Features
