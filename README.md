@@ -2,6 +2,10 @@
 
 SmartRecruitAI is an intelligent next-generation recruitment platform that revolutionizes the CV-job matching process by combining Deep Learning, Natural Language Processing (NLP), and RAG (Retrieval-Augmented Generation) architecture.
 
+![SmartRecruitAI Demo & presentation
+][(https://via.placeholder.com/800x400/0A66C2/FFFFFF?text=SmartRecruitAI+Demo+Dashboard](https://canva.link/q33ltiwn6oytned))  
+*(Replace with a screenshot from your Canva presentation or actual demo — e.g., matching interface, explanation panel, or conversational assistant)*
+
 ## 🧠 Three-Level Intelligent Architecture
 
 ### Level 1: Extraction & Understanding (NLP + Deep Learning)
@@ -305,5 +309,7 @@ For questions or support, please open an issue on GitHub.
 
 **Built with ❤️ using Django, FastAPI, Deep Learning, and AI**
 
-#   S m a r t R e c r u i t e r - R A G -  
+#   S m a r t R e c r u i t e r - R A G - 
+
+ 
  
